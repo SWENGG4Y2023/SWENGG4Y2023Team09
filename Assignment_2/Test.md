@@ -147,5 +147,26 @@ The testing activities will be conducted according to the following schedule:
 
 Test Managers, Test Leads, Testers, Developers, Database
 
+### Test Deliverables:
+
+These following activities are included:
+<br>: A comprehensive document that outlines the overall testing approach, strategies, scope, schedule,
+resources, and responsibilities.<br>
+**Test cases**:  Detailed test cases that cover various scenarios, inputs, and expected results for validating the
+functionality of the OYO Booking System. These test cases should be well-documented, organized, and easily
+understandable.<br>
+**Test data**: Relevant and representative test data that includes both valid and invalid inputs to test different
+system
+functionalities, edge cases, and boundary conditions.<br>
+**Test Scripts**: Automation scripts developed using testing frameworks or tools to automate the execution of repetitive
+or regression test cases. These scripts help improve efficiency and reliability in testing.<br>
+**Test logs**: Detailed records or logs capturing the execution of each test case, including information such as test
+case ID, test steps, actual results, expected results, timestamps, and any encountered issues.<br>
+**Incident reports**: Reports documenting any defects, issues, or incidents encountered during testing, including their
+descriptions, steps to reproduce, severity, priority, status, and resolutions.<br>
+**Test summary report**: A comprehensive report summarizing the overall testing activities, results, and observations.
+It
+includes a summary of test execution, coverage achieved, defects found, and recommendations for improvements .
+
 
 
