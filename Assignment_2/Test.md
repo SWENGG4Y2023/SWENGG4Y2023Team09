@@ -235,5 +235,112 @@ Approval for OYO Booking System involves obtaining approvals at various stages:
 * Deployment Approval: Seek approval for system deployment to the production environment.
 * Maintenance Approval: Obtain approval for ongoing system maintenance. <br>
   The approval process ensures that the OYO Booking System meets quality standards and is ready for use.
+  
+### Test Design Specification
 
+- **Test Objective**: Define the goal and purpose of the testing effort for the OYO Booking System.
+- **Test Items**: Identify the components or modules of the OYO Booking System that will be tested.
+- **Test Techniques**: Determine the methods and approaches to be used for testing, such as black-box testing, white-box
+  testing, or a combination of techniques.
+- **Test Coverage**: Define the scope and extent of testing to ensure comprehensive coverage of the system, including
+  functional, non-functional, and integration aspects.
+- **Test Environment Requirements**: Specify the hardware, software, and network configuration needed to set up the test
+  environment.
+- **Test Data Requirements**: Identify the type and source of test data required for executing the test cases
+  effectively.
+- **Test Cases**: Document the individual test cases, including inputs, expected results, and any preconditions or
+  assumptions.
+- **Test Procedure**: Define the steps and sequence to be followed for executing the test cases and recording test
+  results.
 
+### Test Case Specification:
+
+- **Test Case Identifier**: A unique code assigned to each test case, such as TC001, TC002, etc., for easy
+  identification
+  and referencing.
+- **Test Case Description**: A brief description of the purpose and objective of the test case, such as "Verify user
+  registration functionality" or "Validate booking confirmation process."
+- **Test Procedure**: Step-by-step instructions on how to execute the test case, including any preconditions or setup
+  requirements specific to OYO Booking System. For example, "1. Launch the OYO Booking System application. 2. Navigate
+  to the registration page. 3. Enter valid user details. 4. Submit the registration form."
+- **Test Inputs**: Specific inputs or data values required to execute the test case. This could include things like
+  valid
+  or invalid user information, booking details, or system configurations.
+  Expected Results: The anticipated outcomes or behaviors that should occur when the test case is executed
+  successfully. For instance, "User registration is successful, and a confirmation message is displayed" or "Booking is
+  confirmed, and a confirmation email is sent to the user."
+- **Test Execution Status**: Indicates the current status of the test case, such as "Not Executed," "Passed," "Failed,"
+  or "Blocked," based on the actual execution and observed results.
+- **Test Priority**: Priority assigned to the test case to indicate its importance or urgency relative to other test
+  cases.
+  It helps in prioritizing testing efforts. For example, High, Medium, or Low priority.
+- **Test Environment Requirements**: Hardware, software, and network configurations specific to the OYO Booking System
+  necessary to execute the test case successfully. This could include details about the required operating system,
+  browser versions, or test data.
+- **Test Dependencies**: Any specific conditions or prerequisites that need to be satisfied before executing the test
+  case.
+  This could include the availability of test data, successful completion of a previous test case, or specific system
+  configurations. <br>
+  Ensuring consistency and facilitating efficient testing for the OYO Booking System.
+
+### Test Procedure Specification
+
+- **Test Procedure Identifier**: A unique identifier or code assigned to each test procedure, such as TP001, TP002,
+  etc., for
+  easy identification and referencing.
+- **Test Procedure Description**: A brief description of the purpose and objective of the test procedure, such as "
+  Verify the
+  login functionality" or "Test the search and filtering functionality for hotel listings."
+- **Test Steps**: Detailed step-by-step instructions outlining the actions to be performed to execute the test
+  procedure. Each
+  step should be clear, concise, and specific to OYO Booking System. For example,
+    1. Launch the OYO Booking System application.
+    2. Navigate to the login page.
+    3. Enter valid credentials.
+    4. Click on the 'Login' button."
+
+- **Test Inputs**: Specific inputs or data values required during the execution of the test procedure. This could
+  include
+  login credentials, search criteria, or specific user interactions.
+- **Expected Results**: The anticipated outcomes or behaviors that should occur when the test procedure is executed
+  successfully. This could include successful login, display of search results, or appropriate error messages.
+- **Test Execution Status**: Indicates the current status of the test procedure, such as "Not Executed," "Passed," "
+  Failed,"
+  or "Blocked," based on the actual execution and observed results.
+- **Test Environment Requirements**: Hardware, software, and network configurations specific to OYO Booking System
+  necessary
+  to execute the test procedure successfully. This could include details about the required operating system, browser
+  versions, or specific test data.
+- **Test Dependencies**: Any specific conditions or prerequisites that need to be satisfied before executing the test
+  procedure. This could include the availability of test data, successful completion of a previous test procedure, or
+  specific system configurations.
+
+### Test Incident Report:
+
+- **Incident Identifier**: Unique code assigned to each incident for identification.
+- **Incident Description**: Brief description of the encountered issue or problem.
+- **Test Case Identifier**: Identifier of the test case associated with the incident.
+- **Test Procedure Identifier**: Identifier of the test procedure during which the incident occurred.
+- **Incident Severity**: Level of impact or seriousness of the incident.
+- **Incident Priorit**y: Priority assigned to the incident based on its urgency or importance.
+- **Incident Status**: Current status of the incident (Open, In Progress, Closed, etc.).
+- **Incident Resolution**: Details of the resolution or solution applied to address the incident.
+- **Incident Closure Date**: Date when the incident was officially closed or resolved.
+
+### Test Summary Report
+
+- **Introduction**: Provides an overview of the test summary report for the OYO Booking System.
+- **Test Execution Summary**: Summarizes the overall test execution progress, including the number of test cases
+  executed,
+  passed, failed, and blocked. It gives a high-level view of the testing outcomes.
+- **Test Coverage Summary**: Provides a summary of the test coverage achieved during testing, highlighting the areas or
+  functionalities that were tested and any gaps in coverage. It assesses the thoroughness of the testing.
+- **Defect Summary**: Summarizes the defects or issues discovered during testing, including the total number of defects,
+  their severity levels, and their current status. It highlights the quality and stability of the OYO Booking System.
+- **Conclusion**: Offers an overall assessment of the testing phase for the OYO Booking System, summarizing the key
+  findings, challenges, and achievements. It gives an evaluation of the system's readiness for deployment.
+- **Recommendations**: Provides suggestions and recommendations for improving the OYO Booking System based on the
+  testing
+  experience. It may include recommendations for enhancing test coverage, addressing critical defects, or optimizing
+  testing processes.
+  
