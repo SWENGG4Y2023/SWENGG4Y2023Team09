@@ -142,3 +142,20 @@ incorporated to safeguard user information and maintain trust.
 - The system updates the guest's check-out status and finalizes the billing.
 - The staff provides the guest with Iman invoice or receipt.
 - The activity ends with the guest leaving the hotel.
+
+## Flowchart for Oyo Booking System
+
+![the picture](./UML%20Diagrams/Activity_Diagram.png)
+
+## 8. Deployment and Maintenance:
+
+Deployment : The OYO booking system is typically deployed in cloud environments, such as Amazon Web Services (AWS),
+Microsoft Azure, or Google Cloud Platform (GCP). These cloud platforms provide scalability, flexibility, and high
+availability for the OYO system.
+Maintenance: The OYO technical team remotely performs maintenance tasks, including monitoring, software updates,
+issue resolution, and user support, to ensure smooth system operation and enhance performance.
+
+## 9. Conclusion:
+
+The design of the OYO booking system incorporates key design principles and aims to deliver a reliable,
+user-friendly, and scalable solution for efficient hotel management and seamless user experiences.
